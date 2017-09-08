@@ -1,3 +1,6 @@
+---
+tag: nothing
+---
 # Some Thoughts
 
 混了有一年多了，不知道自己在干嘛。

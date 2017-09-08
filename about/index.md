@@ -3,4 +3,5 @@ title: about
 layout: page
 ---
 
-Building...
+Nothing important.
+Nobody cares.

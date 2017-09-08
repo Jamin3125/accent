@@ -1,3 +1,7 @@
+---
+tag: Django
+tag: Python
+---
 # Django手记
 这几天的Django学习，对其后端的处理流程有了一个非常粗略的认识，总结一下。
 ## 所谓的流程
